@@ -1,0 +1,22 @@
+{
+  "name": "angular-image-upload",
+  "authors": [
+    "Walace Silva <wsilva.emp@gmail.com>"
+  ],
+  "description": "",
+  "main": "angular-image-upload.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/wchad/angular-image-upload",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.2"
+  }
+}
